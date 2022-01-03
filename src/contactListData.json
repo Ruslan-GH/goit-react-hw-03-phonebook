@@ -1,0 +1,6 @@
+[
+    { "id": "id-1", "name": "Ivan Ivanov", "number": "+38-066-066-66" },    
+    { "id": "id-2", "name": "Petr Petrov", "number": "+38-050-050-50" },
+    { "id": "id-3", "name": "Semen Semenov", "number": "+38-067-067-67" },
+    { "id": "id-4", "name": "Vladimir Vladimirov", "number": "+38-093-093-93" }
+]
